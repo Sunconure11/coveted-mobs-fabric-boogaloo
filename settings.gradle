@@ -6,9 +6,9 @@ pluginManagement {
         }
 
         maven {
-           name = 'Cotton'
-           url = 'https://server.bbkr.space/artifactory/libs-release/'
-    }
+            name = 'Cotton'
+            url = 'https://server.bbkr.space/artifactory/libs-release/'
+        }
         mavenCentral()
         gradlePluginPortal()
     }

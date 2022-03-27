@@ -16,9 +16,9 @@ repositories {
         name = "patchouli"
         url = "https://maven.blamejared.com"
     }
-        maven {
-           name = 'Cotton'
-           url = 'https://server.bbkr.space/artifactory/libs-release/'
+    maven {
+        name = 'Cotton'
+        url = 'https://server.bbkr.space/artifactory/libs-release/'
     }
     maven { url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' }
     maven { url "https://maven.shedaniel.me/" }
